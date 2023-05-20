@@ -1,4 +1,4 @@
-import { api } from "@/app/lib/api";
+import { api } from "@/lib/api";
 import { NextRequest, NextResponse } from "next/server";
 
 export const GET = async (request: NextRequest) => {

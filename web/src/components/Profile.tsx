@@ -1,4 +1,4 @@
-import { getUser } from '@/app/lib/auth'
+import { getUser } from '@/lib/auth'
 import Image from 'next/image'
 
 export const Profile = () => {
